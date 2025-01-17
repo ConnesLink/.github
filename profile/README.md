@@ -14,9 +14,10 @@
 
 <p align=center> We have developed multiple open sourced projects to commit into our <a href="https://connes.link/oss"> open source pledge</a>.
   
-<p align=center> You can see our <a href="https://github.com/orgs/ConnesLink/repositories"> repositories page</a> to see all of our open sourced projects. </p><br><br>
+<p align=center> You can see our <a href="https://github.com/orgs/ConnesLink/repositories"> repositories page</a> to see all of our open sourced projects. </p>
 
+________
 <p align=center> Made by <a href="https://musti.codes"> musti</a> in 🇹🇷 with ♥️<br>
-<p align=center> <a href="https://connes.link/privacy">Privacy Policy</a> | <a href="https://connes.link/terms">Terms of Service</a><br>
-
-<p align=center> <p align=center><noscript><a href="https://liberapay.com/Connes/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript></p>
+<p align=center> <a href="https://connes.link/privacy">Privacy Policy</a> | <a href="https://connes.link/terms">Terms of Service</a>
+  
+<p align=center> <p align=center><noscript><a href="https://liberapay.com/Connes"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript></p>
